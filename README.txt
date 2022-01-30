@@ -17,6 +17,7 @@
 12) you should be able to see the database
 13) select top 10 and go to ide and use string to pull data from IDE
 
+https://gist.github.com/timmyreilly/f4a351eda5dd45aa9d56411d27573d7c
 
 ################################################
 # Other sql related resources
